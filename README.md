@@ -1,3 +1,4 @@
+<div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
@@ -129,3 +130,5 @@
 
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/wang-weijun/wang-weijun/assets/images/githubgif.gif" />
+
+</div>
