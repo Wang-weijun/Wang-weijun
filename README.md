@@ -2,7 +2,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
-  <a href="https://blog.junyyds.top">
+  <a href="https://junyyds.top">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=800&size=25&pause=1000&width=435&lines=console.log(%22Hello+World%22);Phils" alt="Typing SVG" />
   </a>
 </div>
@@ -11,7 +11,7 @@
  <!-- profile logo 个人资料徽标 -->
 
   <div align="center">
-    <a href="https://blog.junyyds.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://junyyds.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/314185117/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
 
