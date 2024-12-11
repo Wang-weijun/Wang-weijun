@@ -25,7 +25,7 @@
 
 # Hi there 👋
 
-**欢迎访问个人博客：[junyyds.top](https://junyyds.top)**
+**欢迎访问个人博客：[junyyds.cn](https://junyyds.cn)**
 
 <table>
 <tr><td>
